@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam-ds&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam-ds" /> </p>
 
-- 🔭 I’m currently working on [Job Board Platform](https://github.com/Sanyam-DS/job-board-platform.git)
+- 🔭 I’m currently working on [AI Finance Platform](https://github.com/Sanyam-DS/AI-Finance-Platform.git)
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Personal Finance Tracker](https://github.com/Sanyam-DS/finance-tracker.git)
-
-- 🤝 I’m looking for help with [SaaS: Team Collaboration Tool (like Notion-lite or Trello-lite)](https://github.com/Sanyam-DS/team-collab-saas.git)
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanyam-DS](https://github.com/Sanyam-DS)
 
@@ -34,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam-ds&show_icons=true&locale=en" alt="sanyam-ds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-ds&" alt="sanyam-ds" /></p>
-
